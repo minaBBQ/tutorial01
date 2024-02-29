@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=MINA%20WORLD&section=header&reversal=false&fontColor=#ad&fontSize=40&fontAlign=50&animation=fadeIn&rotate=0&descAlign=50&desc=Hello&descAlignY=34)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=MINA%20WORLD&section=header&reversal=false&fontColor=#454545&fontSize=40&fontAlign=50&animation=fadeIn&rotate=0&descAlign=50&desc=Hello&descAlignY=34)
 ---
 <img src="https://daedamo.com/new/data/file/freestory/3667637190_TkoIpKqu_6fc089048efeb95e200b64d51c54d145365a2c20.gif?type=w800" width="20%" height="20%" alt="cat" align="right"></img> 
 
