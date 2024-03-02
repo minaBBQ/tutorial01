@@ -23,14 +23,3 @@ Samsung art & design institute
   서울 메트로 : 외국인을 위한 메트로 맵 제작
   서울 시청, 마포구청 팜플렛 디자인 작업 등..)
 ```
-
-
-<<<<<<< HEAD
-    
-dkssud
-
-<img src="https://daedamo.com/new/data/file/freestory/3667637190_TkoIpKqu_6fc089048efeb95e200b64d51c54d145365a2c20.gif">
-=======
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FminaBBQ%2Ftutorial01&count_bg=%23A2A2A2&title_bg=%23555555&icon=opensuse.svg&icon_color=%23E7E7E7&title=%ED%9E%88%EB%A6%BF%21&edge_flat=true)](https://hits.seeyoufarm.com)
-
->>>>>>> a3067011fcf39a40682fb939b35cc45605a8cd5f
